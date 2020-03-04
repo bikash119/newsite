@@ -1,0 +1,8 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "new blog"
+
+[permalinks]
+  blog = "/:filename/"
+[params]
+  homeText = " Lets get rolling "
